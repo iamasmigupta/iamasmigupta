@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asmi Gupta</h1>
 <h3 align="center">A tech student and passionate learner from New Delhi, India.</h3>
 
-<!-- GIF -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" src="gif.html" width="250">
+
 
 ### About Me  
 - 🔭 I’m currently learning **Java using DSA**  
