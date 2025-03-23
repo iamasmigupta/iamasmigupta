@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmi Gupta</h1>
 <h3 align="center">A tech student and passionate learner from New Delhi, India.</h3>
 
-<img align="right" src="https://lottie.host/30b70984-cf5b-4daa-93a0-abf8a24cbc3c/XTpbQdpYNN.lottie" width="250">
+<img align="right" src="Animation - 1742767517348.gif" width="400">
 
 
 ### About Me  
