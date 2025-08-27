@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning **Java using DSA**  
 - 🌱 I’m also exploring **React and MERN Stack Development**  
 - 💬 Basic Knowledge about **Java, Python, React, MySQL**  
-- 📫 How to reach me: **asmigupta.mca24@bvicam.in**  
+- 📫 How to reach me: **itsasmigupta@gmail.com**  
 
 ---
 
