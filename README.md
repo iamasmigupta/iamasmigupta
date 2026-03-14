@@ -1,44 +1,93 @@
-<h1 align="center">Hi 👋, I'm Asmi Gupta</h1>
-<h3 align="center">A tech student and passionate learner from New Delhi, India.</h3>
-
-<img align="right" src="Animation - 1742767517348.gif" width="400">
-
-
-### About Me  
-- 🔭 I’m currently learning **Java using DSA**  
-- 🌱 I’m also exploring **React and MERN Stack Development**  
-- 💬 Basic Knowledge about **Java, Python, React, MySQL**  
-- 📫 How to reach me: **itsasmigupta@gmail.com**  
+<h1 align="center">Welcome to my GitHub 👋</h1>
 
 ---
 
-### **🌐 Connect with me:**
+### 💡 Hi, I'm Asmi Gupta – probably debugging something right now.
+
+- 💻 Obsessed with finding that one line of code breaking everything in full-stack projects.
+- 🌱 Dipping toes in **React, MERN Stack**, and **DSA with Java**.
+- 🤝 Open to collabs in **Web Development**, **Open Source**, or anything that comes with a free headache.
+- 💼 LinkedIn (enter at your own risk): [asmi-gupta](https://linkedin.com/in/asmi-gupta)
+- 📧 Old-school? Mail me: [itsasmigupta@gmail.com](mailto:itsasmigupta@gmail.com)
+
+---
+
+## 🌐 Socials:
+
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmi-gupta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsasmigupta@gmail.com)
 
 ---
 
-### **🛠️ Languages & Tools:**
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+## 🚀 About Me
+
+🎓 Final year MCA student passionate about building things that actually solve problems.<br>
+🛠️ Skilled in **C, C++, Java, Python, React, Node.js, MongoDB, MySQL**.<br>
+😄 I like building things that *actually* solve problems – and occasionally break in dramatic fashion.
 
 ---
 
+## 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 🛠 Projects
+
+- 🏢 **[WorkSphere — Employee Management System](https://worksphere-management-system.vercel.app)** — Full-stack EMS with dashboards, attendance, leave, salary & PDF exports. Built with **React, Node.js, Express, MongoDB, Tailwind CSS**.
+
+- 🤖 **[HireGenius — AI-Powered Interview Platform](https://letshiregenius.vercel.app)** — AI-proctored interviews with face detection, speech-to-text & automated scoring. Built with **React, Node.js, Gemini AI, Groq Whisper, Python/OpenCV**.
+
+- 🛒 **[JSM Mastery — Full Stack E-Commerce App](#)** — Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization. Built with **Next.js, React, Stripe, Sanity CMS**.
+
+- 🍔 **[Retro Snake Burger Edition](https://github.com/iamasmigupta)** — Retro 2D snake game where you eat burgers and beat your high score. Built with **Python, Pygame**.
+
+- 🎮 **[Endless Wheel Runner](https://github.com/iamasmigupta)** — Endless runner game where a rolling wheel dodges obstacles across lanes. Built with **Unity, C#**.
+
+---
+
+## 🎯 Interests
+
+- 💻 Web Development
+- ☕ DSA & Problem Solving
+- 📊 Data Science
+- 🔐 Cybersecurity
+
+---
+
+## 📊 GitHub Stats:
+
+![Asmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamasmigupta&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamasmigupta&layout=compact&theme=radical)
+
+---
+
+## 💬 Random Dev Quote
+
+> *"We who cut mere stones must always be envisioning cathedrals."*
+> — Quarry worker's creed
+
+---
+
+Let's collaborate on something exciting (or at least mildly dramatic) 😄
