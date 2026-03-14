@@ -9,6 +9,7 @@
 - 💻 Obsessed with finding that one line of code breaking everything in full-stack projects.
 - 🌱 Dipping toes in **React, MERN Stack**, and **DSA with Java**.
 - 🤝 Open to collabs in **Web Development**, **Open Source**, or anything that comes with a free headache.
+- 🌐 Portfolio : [asmigupta.vercel.app](https://asmigupta.vercel.app/)
 - 💼 LinkedIn : [asmigupta](https://linkedin.com/in/asmi-gupta)
 - 📧 Old-school? Mail me: [itsasmigupta@gmail.com](mailto:itsasmigupta@gmail.com)
 
@@ -16,6 +17,7 @@
 
 ## 🌐 Socials:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://asmigupta.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmi-gupta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsasmigupta@gmail.com)
@@ -26,6 +28,7 @@
 
 🎓 Final year MCA student passionate about building things that actually solve problems.<br>
 🛠️ Skilled in **C, C++, Java, Python, React, Node.js, MongoDB, MySQL**.<br>
+🌐 Check out my work at **[asmigupta.vercel.app](https://asmigupta.vercel.app/)**<br>
 😄 I like building things that *actually* solve problems – and occasionally break in dramatic fashion.
 
 ---
@@ -53,15 +56,48 @@
 
 ## 🛠 Projects
 
-- 🏢 **[WorkSphere — Employee Management System](https://worksphere-management-system.vercel.app)** — Full-stack EMS with dashboards, attendance, leave, salary & PDF exports. Built with **React, Node.js, Express, MongoDB, Tailwind CSS**.
+### 🏢 WorkSphere — Employee Management System
+> Full-stack EMS with dashboards, attendance, leave, salary & PDF exports.
 
-- 🤖 **[HireGenius — AI-Powered Interview Platform](https://letshiregenius.vercel.app)** — AI-proctored interviews with face detection, speech-to-text & automated scoring. Built with **React, Node.js, Gemini AI, Groq Whisper, Python/OpenCV**.
+**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
 
-- 🛒 **[JSM Mastery — Full Stack E-Commerce App](https://ecommerce-website-ddx155r56-asmi-guptas-projects.vercel.app/)** — Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization. Built with **Next.js, React, Stripe, Sanity CMS**.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://worksphere-management-system.vercel.app)
 
-- 🍔 **[Retro Snake Burger Edition](https://github.com/iamasmigupta/snake-burger-game)** — Retro 2D snake game where you eat burgers and beat your high score. Built with **Python, Pygame**.
+---
 
-- 🎮 **[Endless Wheel Runner](https://github.com/iamasmigupta/The-Wheel-Runner)** — Endless runner game where a rolling wheel dodges obstacles across lanes. Built with **Unity, C#**.
+### 🤖 HireGenius — AI-Powered Interview Platform
+> AI-proctored interviews with face detection, speech-to-text & automated scoring.
+
+**Tech:** React · Node.js · Gemini AI · Groq Whisper · Python/OpenCV
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://letshiregenius.vercel.app)
+
+---
+
+### 🛒 JSM Mastery — Full Stack E-Commerce App
+> Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization.
+
+**Tech:** Next.js · React · Stripe · Sanity CMS
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-website-ddx155r56-asmi-guptas-projects.vercel.app/)
+
+---
+
+### 🍔 Retro Snake — Burger Edition
+> Retro 2D snake game where you eat burgers and beat your high score.
+
+**Tech:** Python · Pygame
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta/snake-burger-game)
+
+---
+
+### 🎮 Endless Wheel Runner
+> Endless runner game where a rolling wheel dodges obstacles across lanes.
+
+**Tech:** Unity · C#
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta/The-Wheel-Runner)
 
 ---
 
@@ -86,4 +122,9 @@
 
 ---
 
-Let's collaborate on something exciting (or at least mildly dramatic) 😄
+<p align="center">
+  Let's collaborate on something exciting (or at least mildly dramatic) 😄<br><br>
+  <a href="https://asmigupta.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-asmigupta.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
