@@ -9,7 +9,7 @@
 - 💻 Obsessed with finding that one line of code breaking everything in full-stack projects.
 - 🌱 Dipping toes in **React, MERN Stack**, and **DSA with Java**.
 - 🤝 Open to collabs in **Web Development**, **Open Source**, or anything that comes with a free headache.
-- 💼 LinkedIn (enter at your own risk): [asmi-gupta](https://linkedin.com/in/asmi-gupta)
+- 💼 LinkedIn : [asmi-gupta](https://linkedin.com/in/asmi-gupta)
 - 📧 Old-school? Mail me: [itsasmigupta@gmail.com](mailto:itsasmigupta@gmail.com)
 
 ---
