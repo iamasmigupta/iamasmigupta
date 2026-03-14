@@ -56,48 +56,15 @@
 
 ## 🛠 Projects
 
-### 🏢 WorkSphere — Employee Management System
-> Full-stack EMS with dashboards, attendance, leave, salary & PDF exports.
+- 🏢 **[WorkSphere — Employee Management System](https://worksphere-management-system.vercel.app)** — Full-stack EMS with dashboards, attendance, leave, salary & PDF exports. Built with **React, Node.js, Express, MongoDB, Tailwind CSS**.
 
-**Tech:** React · Node.js · Express · MongoDB · Tailwind CSS
+- 🤖 **[HireGenius — AI-Powered Interview Platform](https://letshiregenius.vercel.app)** — AI-proctored interviews with face detection, speech-to-text & automated scoring. Built with **React, Node.js, Gemini AI, Groq Whisper, Python/OpenCV**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://worksphere-management-system.vercel.app)
+- 🛒 **[JSM Mastery — Full Stack E-Commerce App](https://ecommerce-website-ddx155r56-asmi-guptas-projects.vercel.app/)** — Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization. Built with **Next.js, React, Stripe, Sanity CMS**.
 
----
+- 🍔 **[Retro Snake Burger Edition](https://github.com/iamasmigupta/snake-burger-game)** — Retro 2D snake game where you eat burgers and beat your high score. Built with **Python, Pygame**.
 
-### 🤖 HireGenius — AI-Powered Interview Platform
-> AI-proctored interviews with face detection, speech-to-text & automated scoring.
-
-**Tech:** React · Node.js · Gemini AI · Groq Whisper · Python/OpenCV
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://letshiregenius.vercel.app)
-
----
-
-### 🛒 JSM Mastery — Full Stack E-Commerce App
-> Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization.
-
-**Tech:** Next.js · React · Stripe · Sanity CMS
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-F75C7E?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-website-ddx155r56-asmi-guptas-projects.vercel.app/)
-
----
-
-### 🍔 Retro Snake — Burger Edition
-> Retro 2D snake game where you eat burgers and beat your high score.
-
-**Tech:** Python · Pygame
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta/snake-burger-game)
-
----
-
-### 🎮 Endless Wheel Runner
-> Endless runner game where a rolling wheel dodges obstacles across lanes.
-
-**Tech:** Unity · C#
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasmigupta/The-Wheel-Runner)
+- 🎮 **[Endless Wheel Runner](https://github.com/iamasmigupta/The-Wheel-Runner)** — Endless runner game where a rolling wheel dodges obstacles across lanes. Built with **Unity, C#**.
 
 ---
 
