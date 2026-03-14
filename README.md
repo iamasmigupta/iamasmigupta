@@ -4,10 +4,6 @@
 
 ---
 
-<img align="right" src="Animation - 1742767517348.gif" width="400">
-
----
-
 ### 💡 Hi, I'm Asmi Gupta – probably debugging something right now.
 
 - 💻 Obsessed with finding that one line of code breaking everything in full-stack projects.
@@ -15,8 +11,6 @@
 - 🤝 Open to collabs in **Web Development**, **Open Source**, or anything that comes with a free headache.
 - 💼 LinkedIn (enter at your own risk): [asmi-gupta](https://linkedin.com/in/asmi-gupta)
 - 📧 Old-school? Mail me: [itsasmigupta@gmail.com](mailto:itsasmigupta@gmail.com)
-
-<br clear="right"/>
 
 ---
 
@@ -69,7 +63,7 @@
 
 - 🛒 **[JSM Mastery — Full Stack E-Commerce App](https://ecommerce-website-ddx155r56-asmi-guptas-projects.vercel.app/)** — Responsive e-commerce app with Stripe payments, Sanity CMS & SSR optimization. Built with **Next.js, React, Stripe, Sanity CMS**.
 
-- 🍔 **[Retro Snake Burger Edition]((https://github.com/iamasmigupta/snake-burger-game))** — Retro 2D snake game where you eat burgers and beat your high score. Built with **Python, Pygame**.
+- 🍔 **[Retro Snake Burger Edition](https://github.com/iamasmigupta/snake-burger-game)** — Retro 2D snake game where you eat burgers and beat your high score. Built with **Python, Pygame**.
 
 - 🎮 **[Endless Wheel Runner](https://github.com/iamasmigupta/The-Wheel-Runner)** — Endless runner game where a rolling wheel dodges obstacles across lanes. Built with **Unity, C#**.
 
@@ -79,8 +73,6 @@
 
 - 💻 Web Development
 - ☕ DSA & Problem Solving
-
-
 
 ---
 
