@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to my GitHub 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asmi+Gupta+%F0%9F%91%8B;Final+Year+MCA+Student;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
 <img align="right" src="Animation - 1742767517348.gif" width="400">
 
 ---
