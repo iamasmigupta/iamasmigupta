@@ -91,7 +91,4 @@
 
 <p align="center">
   Let's collaborate on something exciting (or at least mildly dramatic) 😄<br><br>
-  <a href="https://asmigupta.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-asmigupta.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
